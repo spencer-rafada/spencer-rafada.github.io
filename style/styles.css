@@ -217,6 +217,7 @@ footer nav ul a{
     .projects-container img{
         size: 50%;
 
+        width: 80%;
         margin-bottom: 1em;
         border-radius: 2.5%;
     }
